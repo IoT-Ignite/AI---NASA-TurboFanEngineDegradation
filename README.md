@@ -1,2 +1,2 @@
-# AI---NASA-TurboFanEngineDegradation
+# AI-NASA-TurboFanEngineDegradation
 Turbo Fan Engine Degradation Study
